@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1591454743 source:d:\kursova\main.c
+	<stdio.h>
+	<stdlib.h>
+	"flat.h"
+	<string.h>
+	<time.h>
+
+1591019956 d:\kursova\flat.h
+
