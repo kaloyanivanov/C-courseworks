@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1578548552 source:d:\pik\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
